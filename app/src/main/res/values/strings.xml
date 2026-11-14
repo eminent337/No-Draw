@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NoDraw</string>
+    <string name="nav_radar">Radar</string>
+    <string name="nav_daily_best">7-Day</string>
+    <string name="nav_matches">Matches</string>
+    <string name="nav_teams">Teams</string>
+    <string name="nav_shortlist">Shortlist</string>
+    <string name="hero_title">No-Draw Radar</string>
+    <string name="hero_subtitle">Statistical decisive-outcome scanner powered by previous match telemetry</string>
+    <string name="refresh_data">Refresh live telemetry</string>
+    <string name="empty_shortlist_title">No Pinned Picks Yet</string>
+    <string name="empty_shortlist_body">Tap the bookmark icon on any decisive match to track it in your shortlist.</string>
+    <string name="empty_matches_title">No Fixtures Match Filters</string>
+    <string name="empty_matches_body">Try lowering the No-Draw confidence threshold or selecting All Leagues.</string>
+    <string name="methodology_disclaimer">Statistical probabilities are derived from historical match results, goal rates, and Poisson outcome modeling for informational sports analytics.</string>
+</resources>

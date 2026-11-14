@@ -1,0 +1,6 @@
+{
+  "name": "NoDraw",
+  "description": "Statistical football analytics app that identifies teams from previous matches, evaluates full outcome probabilities, and selects the top fixtures least likely to end in a draw.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
